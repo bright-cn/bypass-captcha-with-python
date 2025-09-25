@@ -5,18 +5,18 @@
 本指南将介绍在 Python 中绕过 CAPTCHA 的顶级技术与最佳工具：
 
 - [CAPTCHA：定义与类型](#captcha定义与类型)
-- [文本型 CAPTCHA](#文本型-captcha)
-- [图片型 CAPTCHA](#图片型-captcha)
-- [音频型 CAPTCHA](#音频型-captcha)
-- [拼图型 CAPTCHA](#拼图型-captcha)
+  - [文本型 CAPTCHA](#文本型-captcha)
+  - [图片型 CAPTCHA](#图片型-captcha)
+  - [音频型 CAPTCHA](#音频型-captcha)
+  - [拼图型 CAPTCHA](#拼图型-captcha)
 - [是否可以使用 Python 自动化 CAPTCHA？](#是否可以使用-python-自动化-captcha)
 - [评估 Python 的 CAPTCHA 绕过方案](#评估-python-的-captcha-绕过方案)
 - [Python 中绕过 CAPTCHA：前 5 种方法](#python-中绕过-captcha前-5-种方法)
-- [1. Web Unlocker 的 CAPTCHA Solver](#1-web-unlocker-的-captcha-solver)
-- [2. 搭配 Stealth 插件的 Playwright Extra](#2-搭配-stealth-插件的-playwright-extra)
-- [3. AntiCaptcha](#3-anticaptcha)
-- [4. 使用 Stealth 库的 Selenium](#4-使用-stealth-库的-selenium)
-- [5. 2Captcha](#5-2captcha)
+  - [1. Web Unlocker 的 CAPTCHA Solver](#1-web-unlocker-的-captcha-solver)
+  - [2. 搭配 Stealth 插件的 Playwright Extra](#2-搭配-stealth-插件的-playwright-extra)
+  - [3. AntiCaptcha](#3-anticaptcha)
+  - [4. 使用 Stealth 库的 Selenium](#4-使用-stealth-库的-selenium)
+  - [5. 2Captcha](#5-2captcha)
 - [最佳 Python CAPTCHA 解决方案](#最佳-python-captcha-解决方案)
 
 ## CAPTCHA：定义与类型
