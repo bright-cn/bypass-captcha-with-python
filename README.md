@@ -189,7 +189,7 @@ Selenium Stealth 是在自动化交互时减少触发 CAPTCHA 的有效工具。
 
 |     |     |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 服务 | 功能特性 | 支持语言 | 稳定性 | 成功率 | 避免触发 CAPTCHA | 直接解题 | 评价分数 | 免费试用 | 定价 |
+| **服务** | **功能特性** | **支持语言** | **稳定性** | **成功率** | **避免触发 CAPTCHA** | **直接解题** | **评价分数** | **免费试用** | **定价** |
 | Bright Data CAPTCHA Solver | 非常多 | 任意 | 99.9% | 99.9% | ✔️ | ✔️ | 4.5/5 | ✔️ | $3/CPM |
 | Playwright Stealth | 很多 | Python、JavaScript | — | 未知 | ✔️ | ❌ | — | — | 免费 |
 | AntiCaptcha | 较少 | Python、PHP、Java、C#、JavaScript、Go、Ruby | 99.99% | 未披露 | ❌ | ✔️ | 4.8/5 | ❌ | $0.50/CPM — $2/CPM |
